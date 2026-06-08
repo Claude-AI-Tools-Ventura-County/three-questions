@@ -4,7 +4,7 @@
 
 ⸻
 
-name: progressive-project-scoping
+name: three-questions
 description: Guide lightweight project scoping conversations through a low-friction three-question funnel to identify the core user pain, delivery tradeoff, hidden risk, contradictions, and immediate next step. Use when a user wants to scope, plan, architect, validate, or de-risk a software/product project without a heavy discovery process.
 
 Progressive Project Scoping Funnel

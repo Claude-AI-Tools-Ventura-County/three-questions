@@ -68,7 +68,7 @@ Files
 
 Recommended package structure:
 
-progressive-project-scoping/
+three-questions/
 ├── SKILL.md
 └── README.md
 
@@ -82,7 +82,7 @@ Option 1: Use as a ChatGPT Skill
 
 1. Create a folder named:
 
-progressive-project-scoping
+three-questions
 
 2. Add the following files to the folder:
 
@@ -92,8 +92,8 @@ README.md
 3. Zip the folder.
     The zip should preserve the folder structure:
 
-progressive-project-scoping.zip
-└── progressive-project-scoping/
+three-questions.zip
+└── three-questions/
     ├── SKILL.md
     └── README.md
 
